@@ -10,11 +10,10 @@ A fun and interactive Sudoku web app built with Spring Boot, Thymeleaf, and plai
 
 ## :bookmark_tabs: Table of Contents
 
-1. [Features](#features)
-2. [Technologies](#technologies)
-3. [Live Demo](#live-demo)
-4. [How to run the project locally](#how-to-run-the-project-locally)
-5. [License](#license)
+1. [Features](#fire-features)
+2. [Technologies](#rocket-technologies)
+3. [Live Demo](#computer-live-demo)
+4. [How to run the project locally](#wrench-how-to-run-the-project-locally)
 
 ## :fire: Features
 
